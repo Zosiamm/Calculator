@@ -1,3 +1,3 @@
 # Calculator
 Calculator for mobile written in Java &amp; XML
-Made in Android Studio
+I made it in Android Studio
